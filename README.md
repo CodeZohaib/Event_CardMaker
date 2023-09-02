@@ -13,6 +13,52 @@ This website was developed for our client, **Huzaifa Bin Afzal**, with permissio
 **Challenges** : Ensuring user-friendly navigation while enabling real-time changes was a key challenge. The custom card design feature, allowing users to drag content and customize cards, presented another important aspect of the project. <br><br>
 **Project Languages Used** :  HTML, CSS, Bootstrap Jquery, PHP , Mysqli PDO, AJAX<br><br>
 
+**Setting Up Your Project** <br>
+Before proceeding, ensure that both the project name is set to "cardmaker" and the database name is set to "cardmaker. If you wish to change the project name, follow these steps:"
+
+1. **Change Project Folder Name:**
+   - First, navigate to the root directory of your project on your local machine.
+   - Rename the folder from "cardmaker" to your desired project name.
+
+2. **Update JavaScript (custom.js) File:**
+   - Inside your project folder, find the "custom.js" file.
+   - Open it using a code editor of your choice.
+
+   In the "custom.js" file, locate the following line:
+
+   ```javascript
+   var pageUrl = window.location.origin + '/cardmaker';
+   ```
+
+   Replace `'cardmaker'` with your project's name. For example:
+
+   ```javascript
+   var pageUrl = window.location.origin + '/your_project_name';
+   ```
+
+3. **Update PHP (allFunction.php) File:**
+   - Inside your project folder, find the "allFunction.php" file.
+   - Open it using a code editor of your choice.
+
+   In the "allFunction.php" file, locate the following line:
+
+   ```php
+   define("BASEURL", "http://localhost/cardmaker");
+   ```
+
+   Replace `'cardmaker'` with your project's name. For example:
+
+   ```php
+   define("BASEURL", "http://localhost/your_project_name");
+   ```
+
+4. **Save Changes:** After making these modifications, make sure to save both the "custom.js" and "allFunction.php" files.
+
+5. **Test Your Project:** Finally, you should be able to run your project with the updated name by accessing it through your local web server.
+
+By following these steps, you've renamed the project folder and updated the JavaScript and PHP files to use the new project name. Make sure that your web server is running, and you should be able to access your project with the new name.
+
+<br><br><br>
 **Project ScreenShot** 
 
 ![1](https://github.com/CodeZohaib/Event_CardMaker/assets/142882799/00d23401-896a-4563-ba8d-23d8a49316c1)
