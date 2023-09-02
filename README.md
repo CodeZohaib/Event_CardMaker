@@ -1,4 +1,4 @@
-![12](https://github.com/CodeZohaib/Event_CardMaker/assets/142882799/df7a884a-af43-4e5f-a229-92b76e545a57)![12](https://github.com/CodeZohaib/Event_CardMaker/assets/142882799/036dacab-81d2-4dba-b21a-bf7aead65c7c)# Event_CardMaker
+# Event_CardMaker
 Create personalized cards easily for birthdays, anniversaries, weddings, and thank-yous with our unique drag-and-drop custom card design feature. Our intuitive platform offers a real-time editing experience, and you can easily download your customized cards in PDF format to enhance the user experience.<br>
 
 This website was developed for our client, **Huzaifa Bin Afzal**, with permission to include it in our portfolio and upload it to GitHub.<br>
