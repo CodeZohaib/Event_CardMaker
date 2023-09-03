@@ -71,7 +71,7 @@ By following these steps, you've renamed the project folder and updated the Java
 ![3](https://github.com/CodeZohaib/Event_CardMaker/assets/142882799/2c839148-cb6a-4a16-9b08-c87ad18cee35)
 **Login Page** : To access your account, simply enter your registered email and password. Once you're in, you can continue crafting beautiful cards and enjoying our services.<br><br><br>
 
-![4](https://github.com/CodeZohaib/Event_CardMaker/assets/142882799/b719ca36-ca7c-44ef-9751-01ab30394fe7)
+![4](https://github.com/CodeZohaib/Event_CardMaker/assets/142882799/fbbf357c-88c9-4514-8370-3eeb0cb9daf5)
 **Wedding Card Create Page** : Easily make your ideal wedding card here. Put in event info like names, date, time, and place, plus a message. Choose colors, pictures, and text style – see it all as you go.<br><br><br>
 
 ![5](https://github.com/CodeZohaib/Event_CardMaker/assets/142882799/62b2208d-ceb4-40da-b622-fbd5861a6040)
